@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+C++ Developer working on Alcatel-Lucent Network Management Application Platform(ALMAP) Framework!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+Specialties: 
+C, C#, C++, C++11/14, ZeroMQ, ZMQPP, System Programming, Framework Development, Network Programming, Messaging Framework, ACE Framework, Data Structures, Algorithm Design, Programming Contests, Efficient Implementation of Cryptographic Primitives, Curve Based Cryptography, Hyper-Elliptic Curve Cryptography.  
 
 ### Contact me
 
