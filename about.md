@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-C++ Developer working on Alcatel-Lucent Network Management Application Platform(ALMAP) Framework!
+C++ Developer in Alcatel-Lucent Network Management Application Platform(ALMAP) Framework Team.
 
 ### More Information
 
